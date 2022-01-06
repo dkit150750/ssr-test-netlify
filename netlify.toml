@@ -16,3 +16,7 @@ watch_dir = "dist/worker"
 
 [build.upload]
 format = "service-worker"
+
+[functions]
+# Specifies `esbuild` for functions bundling
+node_bundler = "esbuild"

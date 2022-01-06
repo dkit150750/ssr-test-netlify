@@ -18,6 +18,7 @@
   "dependencies": {
     "@vueuse/core": "^5.3.0",
     "@vueuse/head": "^0.6.0",
+    "netlify-cli": "^8.6.12",
     "nprogress": "^0.2.0",
     "pnpm": "^6.25.0",
     "prism-theme-vars": "^0.2.2",
